@@ -1,2 +1,2 @@
-# Advance-_Poo
+# Advance_Poo
 Todo sobre Poo y metodos  avanzados.
